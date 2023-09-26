@@ -1,0 +1,17 @@
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.AssemblyInfoInputs.cache
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.AssemblyInfo.cs
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.csproj.CoreCompileInputs.cache
+C:\Users\zisucosmin\Desktop\csharptabel\bin\Debug\net7.0\csharptabel.exe
+C:\Users\zisucosmin\Desktop\csharptabel\bin\Debug\net7.0\csharptabel.deps.json
+C:\Users\zisucosmin\Desktop\csharptabel\bin\Debug\net7.0\csharptabel.runtimeconfig.json
+C:\Users\zisucosmin\Desktop\csharptabel\bin\Debug\net7.0\csharptabel.dll
+C:\Users\zisucosmin\Desktop\csharptabel\bin\Debug\net7.0\csharptabel.pdb
+C:\Users\zisucosmin\Desktop\csharptabel\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.csproj.AssemblyReference.cache
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.csproj.CopyComplete
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.dll
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\refint\csharptabel.dll
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.pdb
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\csharptabel.genruntimeconfig.cache
+C:\Users\zisucosmin\Desktop\csharptabel\obj\Debug\net7.0\ref\csharptabel.dll
